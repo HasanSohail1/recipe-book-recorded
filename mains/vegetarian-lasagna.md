@@ -1,5 +1,4 @@
-# Vegetarian lasagna recipe
-
+# Vegetarian Italian lasagna recipe 
 
 ## Ingredients
 
